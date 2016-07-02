@@ -1,0 +1,22 @@
+{
+  "name": "koa-hello-world",
+  "version": "1.0.0",
+  "description": "Obligatory Hello World tutorial with Koa.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stlcubsfan/koa-hello-world.git"
+  },
+  "author": "stlcubsfan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stlcubsfan/koa-hello-world/issues"
+  },
+  "homepage": "https://github.com/stlcubsfan/koa-hello-world#readme",
+  "dependencies": {
+    "koa": "^1.2.0"
+  }
+}
